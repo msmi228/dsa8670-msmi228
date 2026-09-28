@@ -70,6 +70,15 @@ By the end of Week 5, you should be able to:
 
 ---
 
+## Part 3 - Branching & Pull Request
+
+- Version control matters in analytics because projects can change a lot as you work through the data and try different approaches. 
+- It helps keep track of those changes without having to save a bunch of separate file versions. 
+- I also think it makes working with a team much easier because everyone can see what was changed and avoid accidentally overwriting each others work. 
+- It just makes the whole process feel more organized and easier to manage.
+
+---
+
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
