@@ -6,4 +6,4 @@ Major / program: Data Science & Analytics
 
 Favorite dataset or industry interest: Renewable Energy
 
-One reason I am studying analytics:
+One reason I am studying analytics: To move to the Data Science team at my current company 
