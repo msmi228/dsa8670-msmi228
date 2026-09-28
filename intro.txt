@@ -4,6 +4,6 @@ Name: Marshall Smith
 
 Major / program: Data Science & Analytics 
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: Renewable Energy
 
 One reason I am studying analytics:
